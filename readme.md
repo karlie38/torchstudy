@@ -5,6 +5,7 @@ The purpose is to study the paper and embody it with pytorch tool.
 ### Lists
 
 **1. Convolutional Neural Networks for Sentence Classification**
+
 	- Kim, Y. (2014). Convolutional neural networks for sentence classification. arXiv preprint arXiv:1408.5882.
 	- paper: https://www.aclweb.org/anthology/D14-1181.pdf 
 	- final code
@@ -14,5 +15,6 @@ The purpose is to study the paper and embody it with pytorch tool.
 	
 
 **2. Sequence to Sequence Learning with Neural Networks**
+
 	- Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. arXiv preprint arXiv:1409.3215.
 	- paper: https://arxiv.org/pdf/1409.3215.pdf
